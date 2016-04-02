@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Utenti>
+    <Utente>
+        <Tipo>2</Tipo>
+        <Nome>Maria</Nome>
+        <Cognome>Verdi</Cognome>
+        <Username>mariaVerdi</Username>
+        <Password>m456v</Password>
+        <Sesso>0</Sesso>
+        <Giorno>11</Giorno>
+        <Mese>7</Mese>
+        <Anno>1992</Anno>
+        <Provincia>Milano</Provincia>
+        <E-Mail>mariaVerdi@yahoo.it</E-Mail>
+        <Telefono>0345235427</Telefono>
+        <Sito></Sito>
+        <Lingue>Italiano, francese, spagnolo.</Lingue>
+        <Interessi></Interessi>
+        <Titoli>1</Titoli>
+        <Titolo0>diploma</Titolo0>
+        <Istituzione0>Istituto &quot;Leopardi&quot;</Istituzione0>
+        <AreaStudio0>ragioneria</AreaStudio0>
+        <Descrizione0>Diploma di ragioniere</Descrizione0>
+        <Giorno0>6</Giorno0>
+        <Mese0>7</Mese0>
+        <Anno0>2011</Anno0>
+        <Esperienze>0</Esperienze>
+        <Contatti>3</Contatti>
+        <Contatto0>emanuele</Contatto0>
+        <Contatto1>paolo_rossi</Contatto1>
+        <Contatto2>giovanni</Contatto2>
+        <ContattiEst>3</ContattiEst>
+        <ContattoEst0>paolo_rossi</ContattoEst0>
+        <ContattoEst1>veronica</ContattoEst1>
+        <ContattoEst2>emanuele</ContattoEst2>
+        <NumMessaggi>2</NumMessaggi>
+    </Utente>
+    <Utente>
+        <Tipo>1</Tipo>
+        <Nome>Eleonora</Nome>
+        <Cognome>Rossi</Cognome>
+        <Username>eleonora</Username>
+        <Password>elRo55</Password>
+        <Sesso>0</Sesso>
+        <Giorno>28</Giorno>
+        <Mese>1</Mese>
+        <Anno>1987</Anno>
+        <Provincia>Torino</Provincia>
+        <E-Mail>eleor_rossi87@gmail.com</E-Mail>
+        <Telefono>3280964532</Telefono>
+        <Sito></Sito>
+        <Lingue>Italiano, Inglese.</Lingue>
+        <Interessi>Musica, teatro.</Interessi>
+        <Titoli>0</Titoli>
+        <Esperienze>1</Esperienze>
+        <Esperienza0>Riprese video, montaggio, creazione dvd promozionale</Esperienza0>
+        <NomeAzienda0>Compagnia teatrale &quot;Sole&quot;</NomeAzienda0>
+        <Luogo0>Torino</Luogo0>
+        <GiornoInizio0>1</GiornoInizio0>
+        <MeseInizio0>6</MeseInizio0>
+        <AnnoInizio0>2005</AnnoInizio0>
+        <GiornoFine0>1</GiornoFine0>
+        <MeseFine0>9</MeseFine0>
+        <AnnoFine0>2008</AnnoFine0>
+        <Contatti>0</Contatti>
+        <ContattiEst>2</ContattiEst>
+        <ContattoEst0>paolo_rossi</ContattoEst0>
+        <ContattoEst1>veronica</ContattoEst1>
+        <NumMessaggi>0</NumMessaggi>
+    </Utente>
+    <Utente>
+        <Tipo>1</Tipo>
+        <Nome>Marco</Nome>
+        <Cognome>Bruni</Cognome>
+        <Username>marco</Username>
+        <Password>bm68-12</Password>
+        <Sesso>1</Sesso>
+        <Giorno>1</Giorno>
+        <Mese>12</Mese>
+        <Anno>1968</Anno>
+        <Provincia>Bergamo</Provincia>
+        <E-Mail></E-Mail>
+        <Telefono></Telefono>
+        <Sito></Sito>
+        <Lingue>Italiano, tedesco</Lingue>
+        <Interessi></Interessi>
+        <Titoli>1</Titoli>
+        <Titolo0>diploma</Titolo0>
+        <Istituzione0>istituto &quot;Federico II&quot;</Istituzione0>
+        <AreaStudio0>meccanica</AreaStudio0>
+        <Descrizione0>Diploma di perito industriale a indirizzo meccanico</Descrizione0>
+        <Giorno0>1</Giorno0>
+        <Mese0>6</Mese0>
+        <Anno0>1988</Anno0>
+        <Esperienze>1</Esperienze>
+        <Esperienza0>Autista e aiuto meccanico presso agenzia viaggi &quot;Travel Express&quot;</Esperienza0>
+        <NomeAzienda0>Travel Express</NomeAzienda0>
+        <Luogo0>Svizzera</Luogo0>
+        <GiornoInizio0>11</GiornoInizio0>
+        <MeseInizio0>10</MeseInizio0>
+        <AnnoInizio0>1999</AnnoInizio0>
+        <GiornoFine0>5</GiornoFine0>
+        <MeseFine0>3</MeseFine0>
+        <AnnoFine0>2000</AnnoFine0>
+        <Contatti>0</Contatti>
+        <ContattiEst>0</ContattiEst>
+        <NumMessaggi>0</NumMessaggi>
+    </Utente>
+    <Utente>
+        <Tipo>1</Tipo>
+        <Nome>Veronica</Nome>
+        <Cognome>Verdi</Cognome>
+        <Username>veronica</Username>
+        <Password>v789v</Password>
+        <Sesso>0</Sesso>
+        <Giorno>4</Giorno>
+        <Mese>8</Mese>
+        <Anno>1977</Anno>
+        <Provincia>Bologna</Provincia>
+        <E-Mail>veronicaVerdi@tiscali.it</E-Mail>
+        <Telefono>3905673821</Telefono>
+        <Sito></Sito>
+        <Lingue></Lingue>
+        <Interessi></Interessi>
+        <Titoli>1</Titoli>
+        <Titolo0>laurea triennale</Titolo0>
+        <Istituzione0>università degli studi di Bologna</Istituzione0>
+        <AreaStudio0>economia</AreaStudio0>
+        <Descrizione0>Laurea in economia e commercio
+Voto: 100/110</Descrizione0>
+        <Giorno0>1</Giorno0>
+        <Mese0>1</Mese0>
+        <Anno0>1900</Anno0>
+        <Esperienze>0</Esperienze>
+        <Contatti>2</Contatti>
+        <Contatto0>eleonora</Contatto0>
+        <Contatto1>mariaVerdi</Contatto1>
+        <ContattiEst>0</ContattiEst>
+        <NumMessaggi>0</NumMessaggi>
+    </Utente>
+    <Utente>
+        <Tipo>3</Tipo>
+        <Nome>Paolo</Nome>
+        <Cognome>Rossi</Cognome>
+        <Username>paolo_rossi</Username>
+        <Password>p678</Password>
+        <Sesso>1</Sesso>
+        <Giorno>23</Giorno>
+        <Mese>5</Mese>
+        <Anno>1989</Anno>
+        <Provincia>Roma</Provincia>
+        <E-Mail>Rossi.Paolo@msn.com</E-Mail>
+        <Telefono>0671346752</Telefono>
+        <Sito></Sito>
+        <Lingue>Inglese, spagnolo</Lingue>
+        <Interessi>Letteratura italiana, filosofia</Interessi>
+        <Titoli>2</Titoli>
+        <Titolo0>Diploma di maturità </Titolo0>
+        <Istituzione0>Liceo Statale &quot;Leopardi&quot;</Istituzione0>
+        <AreaStudio0>Studi umanistici</AreaStudio0>
+        <Descrizione0>Diploma di maturità classica
+</Descrizione0>
+        <Giorno0>1</Giorno0>
+        <Mese0>7</Mese0>
+        <Anno0>2003</Anno0>
+        <Titolo1>laurea triennale</Titolo1>
+        <Istituzione1>Università degli studi di Roma Tor Vergata</Istituzione1>
+        <AreaStudio1>Filosofia</AreaStudio1>
+        <Descrizione1>laurea triennale in filosofia</Descrizione1>
+        <Giorno1>1</Giorno1>
+        <Mese1>6</Mese1>
+        <Anno1>2011</Anno1>
+        <Esperienze>0</Esperienze>
+        <Contatti>4</Contatti>
+        <Contatto0>giovanni</Contatto0>
+        <Contatto1>mariaVerdi</Contatto1>
+        <Contatto2>emanuele</Contatto2>
+        <Contatto3>eleonora</Contatto3>
+        <ContattiEst>2</ContattiEst>
+        <ContattoEst0>giovanni</ContattoEst0>
+        <ContattoEst1>mariaVerdi</ContattoEst1>
+        <NumMessaggi>8</NumMessaggi>
+    </Utente>
+    <Utente>
+        <Tipo>2</Tipo>
+        <Nome>Giovanni</Nome>
+        <Cognome>Bianchi</Cognome>
+        <Username>giovanni</Username>
+        <Password>g123</Password>
+        <Sesso>1</Sesso>
+        <Giorno>26</Giorno>
+        <Mese>6</Mese>
+        <Anno>1978</Anno>
+        <Provincia>Venezia</Provincia>
+        <E-Mail>giovanni.bianchi@gmail.com</E-Mail>
+        <Telefono>372456294</Telefono>
+        <Sito></Sito>
+        <Lingue>Italiano, inglese, tedesco</Lingue>
+        <Interessi></Interessi>
+        <Titoli>2</Titoli>
+        <Titolo0>Diploma di maturità</Titolo0>
+        <Istituzione0>Liceo &quot;Tito Livio&quot;</Istituzione0>
+        <AreaStudio0>scienze</AreaStudio0>
+        <Descrizione0>Maturità scientifica
+Valutazione finale: 45/60</Descrizione0>
+        <Giorno0>1</Giorno0>
+        <Mese0>6</Mese0>
+        <Anno0>1998</Anno0>
+        <Titolo1>Laurea triennale</Titolo1>
+        <Istituzione1>Politecnico di Torino</Istituzione1>
+        <AreaStudio1>Ingegneria gestionale</AreaStudio1>
+        <Descrizione1>Laurea in Ingegneria Gestionale 
+Tesi: &quot;Costi della qualità in ambito produttivo&quot;
+Valutazione finale: 95/100</Descrizione1>
+        <Giorno1>11</Giorno1>
+        <Mese1>6</Mese1>
+        <Anno1>2006</Anno1>
+        <Esperienze>1</Esperienze>
+        <Esperienza0>Lavoro presso negozio di articoli per animali e piante
+Responsabile reparto animali
+- gestione personale reparto
+- gestione amministrazione reparto</Esperienza0>
+        <NomeAzienda0>Zooseller</NomeAzienda0>
+        <Luogo0>Milano</Luogo0>
+        <GiornoInizio0>18</GiornoInizio0>
+        <MeseInizio0>5</MeseInizio0>
+        <AnnoInizio0>2005</AnnoInizio0>
+        <GiornoFine0>5</GiornoFine0>
+        <MeseFine0>11</MeseFine0>
+        <AnnoFine0>2009</AnnoFine0>
+        <Contatti>2</Contatti>
+        <Contatto0>emanuele</Contatto0>
+        <Contatto1>paolo_rossi</Contatto1>
+        <ContattiEst>2</ContattiEst>
+        <ContattoEst0>paolo_rossi</ContattoEst0>
+        <ContattoEst1>mariaVerdi</ContattoEst1>
+        <NumMessaggi>0</NumMessaggi>
+    </Utente>
+    <Utente>
+        <Tipo>3</Tipo>
+        <Nome>Emanuele</Nome>
+        <Cognome>Carraro</Cognome>
+        <Username>emanuele</Username>
+        <Password>p123</Password>
+        <Sesso>1</Sesso>
+        <Giorno>24</Giorno>
+        <Mese>10</Mese>
+        <Anno>1994</Anno>
+        <Provincia>Padova</Provincia>
+        <E-Mail>emanuele94@gmail.com</E-Mail>
+        <Telefono>34684392352</Telefono>
+        <Sito></Sito>
+        <Lingue>Italiano, inglese.</Lingue>
+        <Interessi>Informatica</Interessi>
+        <Titoli>1</Titoli>
+        <Titolo0>diploma</Titolo0>
+        <Istituzione0>Istituto di istruzione superiore &quot;A. Meucci&quot;</Istituzione0>
+        <AreaStudio0>scienze</AreaStudio0>
+        <Descrizione0>Diploma di maturità</Descrizione0>
+        <Giorno0>5</Giorno0>
+        <Mese0>7</Mese0>
+        <Anno0>2013</Anno0>
+        <Esperienze>0</Esperienze>
+        <Contatti>1</Contatti>
+        <Contatto0>mariaVerdi</Contatto0>
+        <ContattiEst>3</ContattiEst>
+        <ContattoEst0>giovanni</ContattoEst0>
+        <ContattoEst1>mariaVerdi</ContattoEst1>
+        <ContattoEst2>paolo_rossi</ContattoEst2>
+        <NumMessaggi>5</NumMessaggi>
+    </Utente>
+</Utenti>
